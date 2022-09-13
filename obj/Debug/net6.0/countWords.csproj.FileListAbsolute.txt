@@ -1,0 +1,15 @@
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\bin\Debug\net6.0\countWords.exe
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\bin\Debug\net6.0\countWords.deps.json
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\bin\Debug\net6.0\countWords.runtimeconfig.json
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\bin\Debug\net6.0\countWords.dll
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\bin\Debug\net6.0\countWords.pdb
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\countWords.csproj.AssemblyReference.cache
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\countWords.GeneratedMSBuildEditorConfig.editorconfig
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\countWords.AssemblyInfoInputs.cache
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\countWords.AssemblyInfo.cs
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\countWords.csproj.CoreCompileInputs.cache
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\countWords.dll
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\refint\countWords.dll
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\countWords.pdb
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\countWords.genruntimeconfig.cache
+F:\Valencia\2022\Fall-2022\Software Development CEN-3024C\countWords\obj\Debug\net6.0\ref\countWords.dll
