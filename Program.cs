@@ -6,8 +6,15 @@ using System.Text.RegularExpressions;
 class CountFrequancies{
 
     static void Main(){
-        String path = "C:\\Users\\Baataoui Youssef\\Desktop\\test.txt";
-        String content = File.ReadAllText(path, Encoding.UTF8);
+        String content = "";
+        try{
+            String path = "C:\\Users\\Baataoui Youssef\\Desktop\\test.txt";
+            content = File.ReadAllText(path, Encoding.UTF8);
+
+        }catch(FileNotFoundException ex){
+            Console.WriteLine(ex.Message);
+        }
+        
         String newContent1 = Between(content, "START", "END");
 
         var words = new Dictionary<string, int>(StringComparer.CurrentCultureIgnoreCase);
